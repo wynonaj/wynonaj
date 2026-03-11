@@ -27,7 +27,6 @@
   <a href="http://www.linkedin.com/in/wynonajacquelinejaner"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
----
 
 <p align="center">
   <img width="420" src="https://github-readme-stats-eight-theta-92.vercel.app/api?username=wynonaj&show_icons=true&cache_seconds=21600&theme=github_dark&hide_border=true" />
@@ -43,7 +42,6 @@
 </p>
 
 
----
 
 <h2 align="center"> Click These </h2>
 
