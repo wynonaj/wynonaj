@@ -20,10 +20,11 @@
   <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
 </p>
 
-<h2>Follow Our Instagram for a Cookie!!!</h2>
+<h2>Follow Our Socials for a Cookie!!!</h2>
 
 <p>
   <a href="https://www.instagram.com/allabouthburg_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="www.linkedin.com/in/wynonajacquelinejaner"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
 ---
