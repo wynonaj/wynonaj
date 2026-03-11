@@ -1,6 +1,6 @@
 <h1>Wynona Jacqueline Janer</h1>
 
-<h2>My Languages!!!</h2>
+<h2>My Languages</h2>
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h2>My Technologies!!!</h2>
+<h2>My Technologies</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
