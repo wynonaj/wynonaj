@@ -23,7 +23,7 @@
 <h2>Follow Our Instagram for a Cookie!!!</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/allabouthburg_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </p>
 
 ---
