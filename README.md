@@ -24,7 +24,7 @@
 
 <p>
   <a href="https://www.instagram.com/allabouthburg_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  <a href="www.linkedin.com/in/wynonajacquelinejaner"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="http://www.linkedin.com/in/wynonajacquelinejaner"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
 ---
