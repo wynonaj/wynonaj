@@ -1,17 +1,21 @@
-<h1>Wynona Jacqueline Janer</h1>
+<h1 align="center">Wynona Jacqueline Janer</h1>
 
-<h2>My Languages</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=UX/UI+Designer;Marketing;Web+Developer;App+Developer"/>
+</p>
 
-<p>
+<h2 align="center">My Languages</h2>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS4-663399?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h2>My Technologies</h2>
+<h2 align="center">My Technologies</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -20,9 +24,9 @@
   <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
 </p>
 
-<h2>Follow Our Socials for a Cookie!!!</h2>
+<h2 align="center">Follow My Socials for a Cookie!!!</h2>
 
-<p>
+<p align="center">
   <a href="https://www.instagram.com/allabouthburg_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   <a href="http://www.linkedin.com/in/wynonajacquelinejaner"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
@@ -42,24 +46,10 @@
 </p>
 
 
-
-<!--
-<h2 align="center"> Click These </h2>
-
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ueU7Jp0bO9M&list=RDueU7Jp0bO9M&start_radio=1">🧙‍♂️🔮🎩</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=_jAQ1HdoX78&list=RD_jAQ1HdoX78&start_radio=1">🟥🟥🟥</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=2mOVpZ8vGC0&list=RD2mOVpZ8vGC0&start_radio=1">🌌🚀🪐</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=FRrdo86LPEk&list=RDFRdo86LPEk&start_radio=1">🌊🏄‍♂️💦</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=9P8NlhoX9rU&list=RD9P8NlhoX9rU&start_radio=1">🖤🖤🖤</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=rJrVABDo2T0&list=RDrJrVABDo2T0&start_radio=1">💪&🦵</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=ZQ7csI44XIU&list=RDZQ7csI44XIU&start_radio=1">🏝️🎆⛵️</a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
--->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
+</p>
