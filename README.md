@@ -34,7 +34,7 @@
 
 <p align="center">
   <img width="420" src="https://github-readme-stats-eight-theta-92.vercel.app/api?username=wynonaj&show_icons=true&cache_seconds=21600&theme=github_dark&hide_border=true" />
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wynonaj&layout=compact&langs_count=10&theme=github_dark&hide_border=true" />
+  <img width="360" src="https://github-readme-stats-eight-theta-92.vercel.app/api/top-langs/?username=wynonaj&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
 <!-- top langs hide=java / exclude_repos--> 
 
 <p align="center">
