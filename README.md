@@ -34,11 +34,12 @@
 
 <p align="center">
   <img width="420" src="https://github-readme-stats-eight-theta-92.vercel.app/api?username=wynonaj&show_icons=true&cache_seconds=21600&theme=github_dark&hide_border=true" />
-  <img width="360" src="https://github-readme-stats-eight-theta-92.vercel.app/api/top-langs/?username=wynonaj&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
+  <img width="360" src="https://github-readme-stats-eight-theta-92.vercel.app/api/top-langs/?username=wynonaj&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 <!-- top langs hide=java / exclude_repos--> 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wynonaj&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wynonaj&theme=github_dark" height="195" />
 </p>
 
 <p align="center">
