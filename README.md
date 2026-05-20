@@ -1,5 +1,7 @@
 <h1 align="center">Wynona Jacqueline Janer</h1>
 
+<!-- Ilya wuz here -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=UX/UI+Designer;Marketing;Web+Developer;App+Developer;Still+Here?"/>
 </p>
@@ -42,10 +44,12 @@
   -->
 <!-- top langs hide=java / exclude_repos--> 
 
+<!-- Broken for some reason
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wynonaj&theme=github_dark&hide_border=true" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wynonaj&theme=github_dark" height="195" />
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wynonaj&theme=github-dark&hide_border=true" />
